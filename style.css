@@ -181,7 +181,7 @@
     display: inline-block;
   }
   
-  /* Animated underline */
+ 
   #location h2::after {
     content: "";
     position: absolute;
